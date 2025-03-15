@@ -3,12 +3,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider, OAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC5tCT7pdHk_K1W2Z4KcZ9RAsM88M5g9xk",
-  authDomain: "signin-temp-9b111.firebaseapp.com",
-  projectId: "signin-temp-9b111",
-  storageBucket: "signin-temp-9b111.firebasestorage.app",
-  messagingSenderId: "357701117096",
-  appId: "1:357701117096:web:a6a426c5a09a56512c0e9d"
+  apiKey: "AIzaSyByLOjOXr683EWH03ONf9zo55Lb8mmAX9k",
+  authDomain: "buddhiyantra-dev.firebaseapp.com",
+  projectId: "buddhiyantra-dev",
+  storageBucket: "buddhiyantra-dev.firebasestorage.app",
+  messagingSenderId: "920619260429",
+  appId: "1:920619260429:web:181a63b3159041c3459344"
 };
 
 const app = initializeApp(firebaseConfig);
