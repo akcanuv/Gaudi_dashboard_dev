@@ -41,7 +41,7 @@ const Register = () => {
       });
 
       console.log("User registered:", user);
-      navigate("/"); // Redirect to the sign-in page after registration
+      navigate("/Gaudi_dashboard_dev"); // Redirect to the sign-in page after registration
     } catch (error) {
       setError(error.message);
       console.error(error.message);
@@ -112,7 +112,7 @@ const Register = () => {
         </p>
         <p className="login-link">
           Already have an account?{" "}
-          <span onClick={() => navigate("/")}>Sign in</span>
+          <span onClick={() => navigate("/Gaudi_dashboard_dev")}>Sign in</span>
         </p>
       </div>
     </div>

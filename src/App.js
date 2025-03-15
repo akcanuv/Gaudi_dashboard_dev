@@ -10,7 +10,7 @@ function App() {
     
     <Router>
       <Routes>
-        <Route path="/" element={<SignIn />} />
+        <Route path="/Gaudi_dashboard_dev" element={<SignIn />} />
         <Route path="/register" element={<Register />} />
         <Route path="/success" element={<Success />} />
       </Routes>
