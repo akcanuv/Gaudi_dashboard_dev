@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Gaudi_dashboard_dev/static/css/main.aaa64708.css",
+    "main.js": "/Gaudi_dashboard_dev/static/js/main.259e4121.js",
+    "static/js/453.34a4db84.chunk.js": "/Gaudi_dashboard_dev/static/js/453.34a4db84.chunk.js",
+    "static/media/Logo.png": "/Gaudi_dashboard_dev/static/media/Logo.4495025ee4d3af49f48f.png",
+    "index.html": "/Gaudi_dashboard_dev/index.html",
+    "main.aaa64708.css.map": "/Gaudi_dashboard_dev/static/css/main.aaa64708.css.map",
+    "main.259e4121.js.map": "/Gaudi_dashboard_dev/static/js/main.259e4121.js.map",
+    "453.34a4db84.chunk.js.map": "/Gaudi_dashboard_dev/static/js/453.34a4db84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaa64708.css",
+    "static/js/main.259e4121.js"
+  ]
+}
