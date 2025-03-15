@@ -1,7 +1,7 @@
 // authService.js
 import axios from "axios";
 
-const API_BASE_URL = `http://localhost:8081`; // Gotta replace this with your backend URL
+const API_BASE_URL = `https://dev.api.dashboard.gaudi.engineer`; // Gotta replace this with your backend URL
 
 export const authenticateWithBackend = async (idToken) => {
   try {    
